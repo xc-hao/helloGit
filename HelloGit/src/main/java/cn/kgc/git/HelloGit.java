@@ -1,4 +1,4 @@
-package cn.kgc.git;
+﻿package cn.kgc.git;
 
 public class HelloGit {
 
@@ -11,5 +11,6 @@ public class HelloGit {
         System.out.println("====分支添加====");
         System.out.println("====在线更新====");
         System.out.println("====克隆的项目====");
+	System.out.println("====命令行上传====");
     }
 }
